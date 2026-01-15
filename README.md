@@ -1,20 +1,57 @@
-<<<<<<< HEAD
-# shop_app
 
-A new Flutter project.
 
-## Getting Started
+# 🛒 Shop App – Flutter E-Commerce Web App
 
-This project is a starting point for a Flutter application.
+A modern, Flipkart-style e-commerce web application built using Flutter Web.
+This project demonstrates product listing, live search, cart system and a fake checkout flow — fully responsive and deployed on Netlify.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 🚀 Live Demo:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# E-Commerce-Web-App
->>>>>>> acb0ef14da95485b4b78c07e49839a5454316392
+🔗 [https://shoppingapp4705.netlify.app/]
+
+---
+
+# ✨ Features:
+
+• Dark themed modern UI
+
+• Product grid like Flipkart
+
+• Live instant search
+
+• Add to Cart & Remove from Cart
+
+• Fake checkout & order success flow
+
+• Works on mobile, tablet & desktop
+
+• Web deployment ready
+
+---
+
+
+# 🧑‍💻 Tech Stack:
+📜Tech      	Usage
+
+•Flutter	:  Frontend framework
+
+•Dart    :  Programming language
+
+•Flutter :  Web deployment
+
+•Netlify :	 Hosting
+---
+
+# 🎯 Learning Outcomes:
+
+• Flutter Web deployment
+
+• Responsive UI design
+
+• State management
+
+• Product filtering & search
+
+• Cart system logic
