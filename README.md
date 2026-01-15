@@ -1,8 +1,9 @@
 
 
-## 🛒 Shop App – Flutter E-Commerce Web App
+# 🛒 Shop App – Flutter E-Commerce Web App
 
 A modern, Flipkart-style e-commerce web application built using Flutter Web.
+
 This project demonstrates product listing, live search, cart system and a fake checkout flow — fully responsive and deployed on Netlify.
 
 ---
